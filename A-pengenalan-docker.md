@@ -12,3 +12,5 @@ Docker adalah sebuah platform open-source yang memungkinkan developer untuk memb
 - Efficient: Docker memungkinkan penggunaan resource yang lebih efisien dan konsisten karena container hanya memerlukan resource yang dibutuhkan oleh aplikasi.
 - Scalability: Docker memungkinkan aplikasi untuk di-scaling secara horizontal dan vertikal.
 - Security: Dalam Docker, setiap container berjalan di enviroment yang terisolasi sehingga keamanan aplikasi terjaga.
+
+![Docker Logo](images/A_introduction_docker_logo.png)
