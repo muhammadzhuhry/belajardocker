@@ -13,4 +13,4 @@ Docker adalah sebuah platform open-source yang memungkinkan developer untuk memb
 - Scalability: Docker memungkinkan aplikasi untuk di-scaling secara horizontal dan vertikal.
 - Security: Dalam Docker, setiap container berjalan di enviroment yang terisolasi sehingga keamanan aplikasi terjaga.
 
-![Docker Logo](images/A_introduction_docker_logo.png)
+![Docker Logo](img/A_introduction_docker_logo.png)

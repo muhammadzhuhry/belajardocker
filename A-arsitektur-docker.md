@@ -11,6 +11,6 @@ Docker Host adalah sebuah server yang menjalankan Docker daemon. Docker Host ber
 ## A.2.3. Docker Registry
 Docker Registry adalah sebuah tempat penyimpanan yang digunakan untuk menyimpan image Docker. Image Docker dapat dibuat oleh pengguna dan diunggah ke Docker Registry, sehingga pengguna lain dapat mengunduh dan menggunakan image tersebut.
 
-![Docker Architecture](./images/A_docker_architecture.png)
+![Docker Architecture](img/A_docker_architecture.png)
 
 Secara keseluruhan, arsitektur Docker memungkinkan Developer untuk membuat dan menjalankan aplikasi dalam container yang terisolasi dari sistem operasi host. Hal ini memungkinkan Developer untuk menjalankan aplikasi dengan lebih efisien dan memastikan bahwa aplikasi dapat dijalankan di berbagai enviroment.
