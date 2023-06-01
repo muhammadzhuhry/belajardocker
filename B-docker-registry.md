@@ -1,4 +1,4 @@
-# B.2. Docker Registry
+# B.3. Docker Registry
 
 Docker registry merupakan sebuah repository / tempat penyimpanan image yang dapat di akses secara publik maupun private. Registry memungkinkan developer untuk melakukan push dan pull image Docker.
 
