@@ -10,7 +10,7 @@ Setiap layer pada image ini bersifat read-only, sehingga ketika ada perubahan pa
 
 Layer paling bawah adalah base image, yang merupakan fondasi dari image tersebut. Setiap layer di atasnya merepresentasikan perubahan yang diterapkan ke base image. Layer-layer ini disusun secara bertumpuk, membentuk sebuah image yang lengkap.
 
-Dengan menggunakan konsep layer ini, Docker dapat melakukan caching, sehingga ketika sebuah image telah di buat dan diubah, Docker hanya akan rebuild layer yang berubah saja, dan tidak perlu membangun ulang layer yang sama seperti sebelumnya. Hal ini membuat proses development dan deployment menjadi lebih cepat dan efisien.
+Dengan menggunakan konsep layer ini, Docker dapat melakukan caching, sehingga ketika sebuah image telah di build lalu di modify, Docker hanya akan rebuild layer yang berubah saja, dan tidak perlu build ulang layer yang sama seperti sebelumnya. Hal ini membuat proses development dan deployment menjadi lebih cepat dan efisien.
 
 ## B.1.1. Docker Image Command
 Beberapa command yang sering digunakan di Docker image antara lain:
