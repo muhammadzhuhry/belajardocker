@@ -20,7 +20,6 @@ Pada section ini, kita akan membahas tentang konsep Docker storage, Storage driv
 Pada bagian ini, kita akan mempelajari tentang Docker Swarm, yang memungkinkan kita untuk membuat dan mengelola cluster dari multiple Docker host.
 - **Docker Security** <br/>
 Pada section ini, kita akan mempelajari tentang Dasar-dasar Docker security.
-
 - **Best Practices** <br/>
 Pada bagian ini, kita akan mempelajari tentang beberapa best practices yang dapat membantu dalam penggunaan Docker, seperti menggunakan Dockerfile yang efisien dan menjalankan Docker container dengan aman.
 - **Troubleshooting** <br/>
