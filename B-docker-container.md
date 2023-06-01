@@ -15,7 +15,7 @@ Beberapa command yang sering digunakan di Docker container antara lain:
     ``` 
     docker container ls -a
     ```
-    kedua command diatas digunakan untuk melihat list container, perbedaanya di command yang terdapat flag -a akan menampilkan semua container baik yang sedang run maupun stop.
+    kedua command diatas digunakan untuk melihat list container, perbedaanya di command yang terdapat flag -a akan menampilkan semua container baik yang sedang running maupun stop.
 2. Membuat container:
     ```
     docker container create <nama_image:tag>
