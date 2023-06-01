@@ -1,8 +1,8 @@
-# B.3. Dockerfile
+# B.4. Dockerfile
 
 Dockerfile adalah sebuah file yang berisi intruksi untuk membangun sebuah Docker image. Dockerfile memungkinkan kita untuk mendefiniskan dengan jelas langkah-langkah yang diperlukan untuk membuat image yang sesuai dengan kebutuhan aplikasi kita.
 
-## B.3.1. Membuat Dockerfile
+## B.4.1. Membuat Dockerfile
 Berikut adalah step dan penjelasan lebih rinci terkait pembuatan Dockerfile:
 1. Base image:
   - Dockerfile dimulai dengan menentukan base image yang akan digunakan sebagai dasar untuk membangun image baru. Base image ini bisa berupa image resmi yang disediakan oleh Docker Hub atau image custom yang sudah dibuat sebelumnya.
@@ -55,7 +55,7 @@ CMD [ "npm", "start" ]
 
 ```
 
-## B.3.2. Build image dari Dockerfile
+## B.4.2. Build image dari Dockerfile
 
 Berikut adalah langkah-langkah yang umum dilakukan dalam membuild image dari Dockerfile:
 
