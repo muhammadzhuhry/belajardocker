@@ -4,7 +4,7 @@
 
 Di dalam enviroment Docker, setiap container memiliki IP address yang terisolasi satu sama lain. Kita bisa menggunakan fitur Docker Network agar suatu container bisa berkomunikasi dan berinteraksi dengan container yang lain. 
 
-## C.2.1. Network Driver
+## C.1.2. Network Driver
 
 Berikut adalah jenis-jenis driver yang sering digunakan di Docker Network:
 
