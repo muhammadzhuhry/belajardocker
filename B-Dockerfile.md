@@ -61,13 +61,13 @@ Berikut adalah langkah-langkah yang umum dilakukan dalam membuild image dari Doc
 
 1. Untuk melakukan build gunakan command:
  ```docker build``` diikuti juga dengan argument yang sekiranya dibutuhkan:
- ```
-  docker build -t image_name:tag -f Dockerfile .
- ```
-  - -t image_name:tag digunakan untuk memberikan nama dan tag pada image yang akan dibuild. Nama image biasanya disesuaikan dengan aplikasi atau service yang ingin Anda jalankan di dalam container.
-  - -f Dockerfile digunakan untuk menentukan path atau nama Dockerfile jika tidak berada di direktori saat ini.
-  - . menunjukkan bahwa build akan dilakukan pada direktori saat ini, di mana Dockerfile berada.
+    ```
+    docker build -t image_name:tag -f Dockerfile .
+    ```
+    - -t image_name:tag digunakan untuk memberikan nama dan tag pada image yang akan dibuild. Nama image biasanya disesuaikan dengan aplikasi atau service yang ingin Anda jalankan di dalam container.
+    - -f Dockerfile digunakan untuk menentukan path atau nama Dockerfile jika tidak berada di direktori saat ini.
+    - . menunjukkan bahwa build akan dilakukan pada direktori saat ini, di mana Dockerfile berada.
 2. Untuk menjalankan container dari image yang barusan di build gunakan perintah: ```docker run``` contohnya:
-```
-docker run -d -p 8080:80 image_name:1.0
-```
+    ```
+    docker run -d -p 8080:80 image_name:1.0
+    ```
