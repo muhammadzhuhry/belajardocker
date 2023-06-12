@@ -13,7 +13,7 @@ Pada bagian ini, kita akan membahas tentang Docker Image, Docker Container, Dock
 - **Docker Container** <br/>
 Di bagian ini, kita akan mempelajari tentang Docker Container, Bagaimana caranya menjalankan, membuat, memodifikasi, menghapus sebuah container.
 - **Docker Networking** <br/>
-Di bagian ini, kita akan mempelajari tentang Docker Network, Konfigurasi, Exposing Container Port serta cara Berkomunikasi antar container.
+Di bagian ini, kita akan mempelajari tentang Docker Network, Macam - macam driver network dan konfigurasinya, juga disertai dengan contoh pengimplementasianya.
 - **Docker Storage** <br/>
 Pada section ini, kita akan membahas tentang konsep Docker storage, Storage driver, Volume, dan Bind Mount.
 - **Docker Swarm** <br/>
