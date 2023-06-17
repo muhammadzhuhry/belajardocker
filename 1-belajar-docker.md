@@ -16,14 +16,8 @@ Di bagian ini, kita akan mempelajari tentang Docker Container, Bagaimana caranya
 Di bagian ini, kita akan mempelajari tentang Docker Network, Macam - macam driver network dan konfigurasinya, juga disertai dengan contoh pengimplementasianya.
 - **Docker Storage** <br/>
 Pada section ini, kita akan membahas tentang konsep Docker storage, Storage driver, Volume, dan Bind Mount.
-- **Docker Swarm** <br/>
-Pada bagian ini, kita akan mempelajari tentang Docker Swarm, yang memungkinkan kita untuk membuat dan mengelola cluster dari multiple Docker host.
-- **Docker Security** <br/>
-Pada section ini, kita akan mempelajari tentang Dasar-dasar Docker security.
-- **Best Practices** <br/>
-Pada bagian ini, kita akan mempelajari tentang beberapa best practices yang dapat membantu dalam penggunaan Docker, seperti menggunakan Dockerfile yang efisien dan menjalankan Docker container dengan aman.
-- **Troubleshooting** <br/>
-Pada bagian ini, kita akan mempelajari tentang beberapa teknik troubleshooting pada Docker, termasuk mengatasi error dan mengecek status dari Docker container.
+- **Study Case** <br/>
+Pada bagian ini, kita akan mencoba mendevelop aplikasi dari scratch lalu menggunakan Dockerfile dan Docker Compose untuk membuild image dan menjalankan image tersebut. 
 
 ## Lisensi
 
