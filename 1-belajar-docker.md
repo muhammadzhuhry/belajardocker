@@ -10,9 +10,7 @@ Ebook ini merupakan catatan yang saya buat pada saat mempelajari Docker dengan t
 Pada bagian ini, kita akan mempelajari tentang konsep dasar Docker, Arsitektur, serta Instalasi Docker di sistem operasi Windows, macOS, dan Linux.
 - **Dasar Docker** <br/>
 Pada bagian ini, kita akan membahas tentang Docker Image, Docker Container, Docker Registery, Dockerfile dan juga Docker Compose.
-- **Docker Container** <br/>
-Di bagian ini, kita akan mempelajari tentang Docker Container, Bagaimana caranya menjalankan, membuat, memodifikasi, menghapus sebuah container.
-- **Docker Networking** <br/>
+- **Docker Network** <br/>
 Di bagian ini, kita akan mempelajari tentang Docker Network, Macam - macam driver network dan konfigurasinya, juga disertai dengan contoh pengimplementasianya.
 - **Docker Storage** <br/>
 Pada section ini, kita akan membahas tentang konsep Docker storage, Storage driver, Volume, dan Bind Mount.
